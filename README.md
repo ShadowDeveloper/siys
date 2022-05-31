@@ -1,19 +1,21 @@
 # CREDITS
 ### Programming
-ShadowProgrammer (Wyatt Darley)
+- Lead Dev: ShadowProgrammer (Wyatt Darley)
 ### Game Design
-AntiSeptic-09 (Ayden Maestas)
-ShadowProgrammer (Wyatt Darley)
-VaultShark (Brayden Morris)
+- Head Game Designer: Anti-Septic09 (Ayden Maestas)
+- ShadowProgrammer (Wyatt Darley)
+- VaultShark (Brayden Morris)
 ### Art
-AntiSeptic-09 (Ayden Maestas)
-ShadowProgrammer (Wyatt Darley)
+- Head Artist: Anti-Septic09 (Ayden Maestas)
+- ShadowProgrammer (Wyatt Darley)
 ### Level Design
-ShadowProgrammer (Wyatt Darley)
+- Head Level Designer: somebody idk we need a level designer
+- ShadowProgrammer (Wyatt Darley)
 ### Music
-ShadowProgrammer (Wyatt Darley)
-InfinityZero (Aiden Anderson)
+- Lead Sound Designer: Infinity_Z3ro (Aiden Anderson)
+- ShadowProgrammer (Wyatt Darley)
 
+Yes I did a lot of this myself. - ShadowProgrammer
 # LICENSE
 MIT License
 
